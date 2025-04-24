@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+  }
+  
+  .custom-background {
+    background-color: #9fcfd3c8;
+    padding: 20px;
+  }
+  
+  .video-container, .tableau-container {
+    margin-top: 20px;
+  }
+  
